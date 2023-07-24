@@ -2,7 +2,7 @@
 
 **Processing Projects Examples**
 
-![Processing Logo](https://processing.org/img/processing3-logo.png)
+
 
  
 Welcome to the repository of Processing projects! Here, you will find a collection of creative and interactive examples developed using the Processing programming language. Each project showcases the versatility and potential of Processing for artistic, educational, and interactive applications.
@@ -34,12 +34,12 @@ Description: in this project, i extract the shape pattern  oF AnniAlbers_SmyrnaR
 ### 2. Project Clock Alternative ⏰
 Description: //my code is about 3 circles of time , each one represent a time Unit based in RGB  
 
-![Clock Alternative](<img width="670" alt="Screen Shot 2023-07-24 at 13 20 15" src="https://github.com/Pampechu/Proccessing/assets/118783357/49299a6b-7b96-4500-be7a-6f55e58e06ca">)
+![Clock Alternative(<img width="670" alt="Screen Shot 2023-07-24 at 13 20 15" src="https://github.com/Pampechu/Proccessing/assets/118783357/49299a6b-7b96-4500-be7a-6f55e58e06ca">)]
 
 ### 3. Project Anni Albers EX4 👀
 Description:  in this project, i extract the shape pattern  oF AnniAlbers_pattern using Processing
-![Project Name 3](<img width="691" alt="Screen Shot 2023-07-24 at 13 15 37" src="https://github.com/Pampechu/Proccessing/assets/118783357/612616e6-ea32-4a6c-87ee-bd86047d5c1d">
-)
+![Project Name 3<img width="691" alt="Screen Shot 2023-07-24 at 13 15 37" src="https://github.com/Pampechu/Proccessing/assets/118783357/612616e6-ea32-4a6c-87ee-bd86047d5c1d">
+)]
 
 ## Contributing
 
