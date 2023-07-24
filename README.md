@@ -15,7 +15,7 @@ To run any of the projects, follow these simple steps:
 
 2. **Clone the Repository**: Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/processing-projects.git
+   git clone https://github.com/Pampechu/Proccessing.git
    ```
 
 3. **Open a Project**: Launch the Processing application, and then open the folder of the specific project you want to explore.
